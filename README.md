@@ -1,0 +1,1 @@
+Hatrick (HTRK) is the utility token managed by HATRICK A Consultants Sdn Bhd. It powers a presale and liquidity platform where tiered access, treasury operations, and referral rewards are governed through Safe-controlled smart contracts.
